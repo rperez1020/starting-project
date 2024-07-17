@@ -28,10 +28,10 @@ function App() {
         <section id="examples">
               <h2>Examples</h2>
               <menu>
-                <tabButton>Components</tabButton>
-                <tabButton>JSX</tabButton>
-                <tabButton>Props</tabButton>
-                <tabButton>State</tabButton>
+                <TabButton>Components</TabButton>
+                <TabButton>JSX</TabButton>
+                <TabButton>Props</TabButton>
+                <TabButton>State</TabButton>
 
               </menu>
         </section>
